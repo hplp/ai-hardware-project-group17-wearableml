@@ -1,2 +1,35 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Buol6fpg)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16838017)
+# AI_Hardware_Project_Group17_WearableML
+
+## Team Name: 
+6501_project_group_17
+
+## Team Members:
+- Haoran Zhang
+- Xi Chen
+
+## Project Title:
+WearableML
+
+## Project Description:
+The goal of this project is to build a wearable device that incorporates TinyML to detect if someone is sleeping. 
+
+## Key Objectives:
+- Deliver the device that's comfortable to wear
+- A communication system allowing wireless communication
+- Embed TinyML to predict the states
+
+## Technology Stack:
+- Seeed XIAO nRF52840 sense
+- Visual Studio Code, Python, C++
+- Bambu 3D Printer
+
+## Expected Outcomes:
+A device, data commmunication system & ML algorithm to detect if someone is sleeping. 
+
+## Timeline:
+This project will be completed in five weeks, with each week's deliverable being
+- Week 1: Device Design and mount on PCB board
+- Week 2: Communication System
+- Week 3: TinyML
+- Week 4: Evaluation
+- Week 5: Documents Write-up
