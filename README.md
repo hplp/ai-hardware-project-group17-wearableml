@@ -8,7 +8,7 @@
 - Xi Chen
 
 ## Project Title:
-WearableML
+Sleep Detection with a Wearable Device 
 
 ## Project Description:
 The goal of this project is to build a wearable device that incorporates TinyML to detect if someone is sleeping. 
