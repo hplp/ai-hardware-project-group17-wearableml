@@ -13,7 +13,7 @@ Sleep Detection with a Wearable Device
 ## Project Description:
 The goal of this project is to build a wearable device that incorporates TinyML to detect if someone is sleeping. 
 
-## Current Progress: 60%
+## Current Progress: Completed
 
 ### Device Ready
 We have completed the design and development of the device. Below is the current image of the device, including the PCB board and the watch with a 3D-printed case and customized watch band. 
