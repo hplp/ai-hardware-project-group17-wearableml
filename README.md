@@ -30,11 +30,6 @@ We have completed the design and development of the device. Below is the current
 ### Signal Processing and Heart Rate Detection
 We have implemented the Arduino and Python code to read the wavelength at 940nm. Using signal processing and a low-pass filter, we have successfully isolated the heart rate signal. This heart rate signal will serve as a crucial indicator of the sleep states.
 
-### Data Visualization
-To visualize the heart rate data, we have developed scripts that produce heart rate waveforms. Below is an image of the heart rate wave captured by our system:
-
-![Heart Rate Wave](link-to-image-3-heart-rate.png)
-
 ## Key Objectives:
 - Deliver the device that's comfortable to wear
 - A communication system allowing wireless communication
